@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Chinmaye R  
 
-<!--
-**Chinmaye-5/Chinmaye-5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year B.Tech Computer Science student  
+💻 Passionate about Cloud Infrastructure, Backend Engineering & Automation  
+🚀 Exploring Azure, Terraform, and scalable web systems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Toolbox  
+- **Languages:** Python, JavaScript, Java, SQL, HTML, CSS  
+- **Frameworks:** React, Node.js, Express, Django  
+- **Cloud & Infra:** Microsoft Azure, PowerShell, Docker  
+- **Databases:** MySQL, MongoDB, PostgreSQL  
+- **Other Tools:** Git, VSCode, Postman, Figma  
+
+---
+
+### 🧩 Featured Projects  
+| Project | Description |
+|----------|-------------|
+| [Digital Library System](#) | Java + MySQL backend for managing books and users efficiently |
+| [Pet Adoption Portal](#) | MERN-stack app with Google OAuth and responsive design |
+| [Automation Scripts](#) | PowerShell/Python utilities for task automation and reporting |
+
+---
+
+### 🧠 Currently Learning  
+- Terraform & Infrastructure-as-Code  
+- Azure cost optimization  
+- CI/CD pipeline automation  
+
+---
+
+### 🌐 Connect with Me  
+[LinkedIn](https://linkedin.com/in/chinmaye) • [Email](mailto:yourmail@gmail.com)  
+
+---
+
+⭐ *“Building one reliable system at a time.”*
